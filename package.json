@@ -1,0 +1,19 @@
+{
+  "name": "employee-manager",
+  "version": "1.0.0",
+  "description": "Command Line Employee Tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoCivers-Davis/Employee-Manager.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoCivers-Davis/Employee-Manager/issues"
+  },
+  "homepage": "https://github.com/MoCivers-Davis/Employee-Manager#readme"
+}
